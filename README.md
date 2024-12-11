@@ -10,7 +10,7 @@ This is an AI-powered chatbot designed to assist with customer support. The chat
 - **Query Handling:** The chatbot uses a templated prompt to generate concise, friendly, and informative responses based on user input.
 
 ## Architecture
-![Image](https://raw.githubusercontent.com/vamshigaddi/Beem_AI_Chabot/c1f15d8f339c4452d549f563769ffbedea38b960/Beem.svg?token=BCPCG6V35SVFQRIQXBX3NPTHLFYJE)
+![Image](https://github.com/vamshigaddi/Beem_AI_Chabot/blob/main/Beem.svg)
   
 ## Prerequisites
 
@@ -23,7 +23,7 @@ Before running the project, ensure that you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/vamshigaddi/AI_Powered_Chatbot.git
+git clone https://github.com/vamshigaddi/Beem_AI_Chabot.git
 cd AI_Powered_Chatbot
 ```
 create virtual environment
